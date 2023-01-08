@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964687409062",
+    "project_id": "flutterapphcikiosk",
+    "storage_bucket": "flutterapphcikiosk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964687409062:android:70152f7f26a405dd562967",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_kiosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964687409062-4r6mhdf4g484glr02ibbmbn99g7r2o8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1K5yanUF6dCYdtPNVQVaZI_3cZ7jr1Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964687409062-4r6mhdf4g484glr02ibbmbn99g7r2o8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
