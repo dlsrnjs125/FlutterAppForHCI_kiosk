@@ -4,9 +4,9 @@
 flutter project for HCI
 
 ## 역할분배
-원성혁: start 화면, home 화면, 메뉴 제공 테이블과 클릭시 랭킹 점수 제공 DB관리, 디자인 제작 <br/>
-윤병욱: detail 화면, 추천랭킹 기능과 상세정보 기능 추가 <br/>
-황인권: final 화면, 전체적인 화면 설계, 디자인 제작, 결제창(주문내역 창) <br/>
+원성혁 : start 화면, home 화면, 메뉴 제공 테이블과 클릭시 랭킹 점수 제공 DB관리, 디자인 제작 <br/>
+윤병욱 : detail 화면, 추천랭킹 기능과 상세정보 기능 추가 <br/>
+황인권 : final 화면, 전체적인 화면 설계, 디자인 제작, 결제창(주문내역 창) <br/>
 저작도구 : vscode, flutter, Dart
 
 예정: firebase 연동, nevigation 탑제로 화면전환
