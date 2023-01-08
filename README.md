@@ -26,5 +26,20 @@ C. 개발된 앱이 제공해 주는 가치, 등
 
 ### 제공되는 기능
 #### 1. 정보구조도
-
+![image](https://user-images.githubusercontent.com/64239673/211190942-e717c0db-8900-4116-97ac-2e1547bf285d.png)
 #### 2. 기능
+![image](https://user-images.githubusercontent.com/64239673/211190971-5d6295df-360b-446d-9ce6-6f0e63092a3a.png) <br/>
+![image](https://user-images.githubusercontent.com/64239673/211190983-b98832e0-11a8-41ce-bfee-57795803a430.png) <br/>
+![image](https://user-images.githubusercontent.com/64239673/211190991-e2ee5877-decf-4276-a1ab-2824eeec7566.png) <br/>
+![image](https://user-images.githubusercontent.com/64239673/211191004-9c0911bd-bf15-479b-a429-5b54ad3e4132.png) <br/>
+
+#### 3. 개선사항
+![image](https://user-images.githubusercontent.com/64239673/211191013-a2917f1f-eb11-4d5c-ab55-1faf5bf25219.png) <br/>
+![image](https://user-images.githubusercontent.com/64239673/211191029-bf5e6bcd-3953-4154-94c0-fbeb9aa16310.png) <br/>
+
+### 동영상 URL
+1. 최종 결과물 시연 동영상
+https://www.youtube.com/watch?v=jvK09AF0UDU
+
+2. 개선 사항 시연 동영상
+https://www.youtube.com/watch?v=3qeU5eLHrMU
